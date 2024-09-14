@@ -2,8 +2,6 @@
 
 # INTELLIGENT METRO MANAGEMENT SYSTEM | Flask | PostgreSQL | Python | Bootstrap | HTML | CSS
 
-## Deployed this project on https://our-metro.herokuapp.com/
-
 This web application is designed for efficient management of metro card holders and users of metro services. It provides the following features:
 
 User Accounts: Users can log in or register to access and manage their metro card accounts, including checking and updating their balance.
