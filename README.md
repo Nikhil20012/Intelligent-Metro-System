@@ -23,5 +23,5 @@ To get started with the Intelligent Metro System, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/intelligent-metro-system.git
+   git clone https://github.com/nikhil20012/intelligent-metro-system.git
    cd intelligent-metro-system
