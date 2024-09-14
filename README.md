@@ -1,10 +1,27 @@
-# Intelligent-Metro-Management-Website
+# Metro Management Web Application
 
-# INTELLIGENT METRO MANAGEMENT SYSTEM | Flask | PostgreSQL | Python | Bootstrap | HTML | CSS
+## Overview
 
-This web application is designed for efficient management of metro card holders and users of metro services. It provides the following features:
+This web application is designed to streamline the management of metro card holders and enhance the experience for users of metro services. It provides an intuitive interface and several key features:
 
-User Accounts: Users can log in or register to access and manage their metro card accounts, including checking and updating their balance.
-Ticket Booking: Allows users to book tickets for metro journeys directly from the website.
-Non-Card Users: Provides an option for users who do not have a metro card to purchase single-journey tickets between stations.
-The system streamlines the process for both cardholders and occasional passengers, enhancing the overall user experience for metro services.
+### Features
+
+- **User Accounts**
+  - **Login/Register**: Users can easily log in or register to access and manage their metro card accounts.
+  - **Account Management**: Check and update metro card balances with ease.
+
+- **Ticket Booking**
+  - **Online Booking**: Users can book tickets for metro journeys directly from the application.
+
+- **Non-Card Users**
+  - **Single-Journey Tickets**: Provides an option for users without a metro card to purchase single-journey tickets between stations.
+
+## Installation
+
+To get started with the Metro Management Web Application, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/metro-management-web-app.git
+   cd metro-management-web-app
