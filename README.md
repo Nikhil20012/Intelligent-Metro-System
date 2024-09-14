@@ -1,4 +1,4 @@
-# Metro Management Web Application
+# Intelligent Metro System
 
 ## Overview
 
@@ -18,10 +18,10 @@ This web application is designed to streamline the management of metro card hold
 
 ## Installation
 
-To get started with the Metro Management Web Application, follow these steps:
+To get started with the Intelligent Metro System, follow these steps:
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/metro-management-web-app.git
-   cd metro-management-web-app
+   git clone https://github.com/yourusername/intelligent-metro-system.git
+   cd intelligent-metro-system
